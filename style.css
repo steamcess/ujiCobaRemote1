@@ -34,3 +34,12 @@ button {
 button:hover {
   background: #1d4ed8;
 }
+
+#reset-button {
+  margin-left: 0.5rem;
+  background: #dc2626;
+}
+
+#reset-button:hover {
+  background: #b91c1c;
+}
